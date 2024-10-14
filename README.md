@@ -18,7 +18,7 @@ Fondée en 1981, ENI École Informatique est une institution spécialisée dans 
 ## Suivez-nous
 
 - [LinkedIn](https://www.linkedin.com/school/eni-ecole-informatique/)
-- [Twitter](https://twitter.com/ENIEcoleInfo)
+
 - [Facebook](https://www.facebook.com/ENIEcoleInformatique)
 
 ---
